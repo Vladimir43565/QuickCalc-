@@ -1,2 +1,2 @@
-# QuickCalc-
+# QuickCalc++
 uhh idk
